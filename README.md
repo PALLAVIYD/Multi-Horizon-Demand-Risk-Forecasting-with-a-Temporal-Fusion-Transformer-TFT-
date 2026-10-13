@@ -8,3 +8,4 @@ Set up a lightweight streaming layer (Kafka or even a simpler polling scheduler 
 Evaluate against a naive baseline (historical average, ARIMA) using MAE/RMSE on held-out time windows
 
 Visualization live predicted congestion on an interactive Folium/Streamlit map : colour-coded by predicted congestion level, similar to your flood risk dashboard style
+check levels 
